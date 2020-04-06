@@ -19,9 +19,9 @@ banner = """
 """
 
 ################################################
-qiwi_token = 'токен от киви'
-qiwi_phone = 'номер киви ваш'
-price = сумма товара
+qiwi_token = 'dc60f1cff1b59342e342882a8c05b52d'
+qiwi_phone = '380501467034'
+price = 50
 ###############Настройка оплаты qiwi############
 
 def donat():
@@ -66,7 +66,7 @@ t=Timer(1, donat)
 t.start()
 
 
-TOKEN = 'токен от бота'
+TOKEN = '1297421750:AAG3B6X9qrr07lwRtU6xxPjTXAji8g26I6Q'
 
 THREADS_LIMIT = 100000
 
